@@ -2,8 +2,6 @@
 
 In this document you can read about us and our work
 
-~ English ~
-
 -Who are we?
 The WriteRobbery is a small school group what has 3 members.
 
