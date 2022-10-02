@@ -3,6 +3,7 @@ main > ul{
 }
 ul:nth-child(2){
     list-style-type: disc;
+    margin-bottom: 0;
 }
 main > ul > ul{
     list-style-type: disc;
