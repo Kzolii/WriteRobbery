@@ -1,0 +1,9 @@
+li > a:hover{
+    text-decoration: blue underline;
+}
+.active{
+    font-weight: bold;
+}
+.active:hover{
+    text-decoration: none;
+}
