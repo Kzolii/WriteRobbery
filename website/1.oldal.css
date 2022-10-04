@@ -1,23 +1,26 @@
 main > ul{
     list-style-type: none;
 }
-ul:nth-child(2){
-    list-style-type: disc;
-    margin-bottom: 0;
-}
 .lisz{
     list-style-type: disc;
 }
 h1{
     font-size: 190%;
+    margin-top: 0.6em;
+    margin-bottom: 0.6em;
 }
 h2{
     font-size: 150%;
-
+    margin-top: 0.5em;
+    margin-bottom: 0.2em;
 }
 li > h2{
     font-size: 135%;
     text-decoration: underline;
     margin-top: 0.6em;
     margin-bottom: 0.2em;
+}
+p{
+    margin-bottom: 0.20em;
+    text-indent: 1em;
 }
