@@ -1,3 +1,11 @@
+body{
+    min-height: 100vh;    
+    display: flex;
+    flex-direction: column;
+}
+main{
+    flex-grow: 1;
+}
 @supports (scrollbar-color: #45a29e #c5c6c7){
     *{
         scrollbar-color: #45a29e #c5c6c7;
