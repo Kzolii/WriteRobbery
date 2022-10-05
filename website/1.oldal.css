@@ -6,7 +6,6 @@ main > ul{
 }
 h1{
     font-size: 190%;
-    margin-top: 0.6em;
     margin-bottom: 0.6em;
 }
 h2{
@@ -24,3 +23,9 @@ p{
     margin-bottom: 0.20em;
     text-indent: 1em;
 }
+#engt{
+    text-indent: 0;
+}
+/* li{
+    list-style-position: inside;
+} / 

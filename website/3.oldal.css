@@ -4,5 +4,8 @@ h1{
 img{
     max-width: 90%;
     display: block;
-    margin: auto;
+    margin: 1.25rem auto;
+}
+li{
+    list-style-position: inside;
 }
